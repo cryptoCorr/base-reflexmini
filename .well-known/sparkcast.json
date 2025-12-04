@@ -1,0 +1,20 @@
+{
+  "header": "[LÜTFEN FARCASTER'DAN ALDIĞINIZ HEADER DEĞERİYLE DEĞİŞTİRİN]",
+  "payload": "[LÜTFEN FARCASTER'DAN ALDIĞINIZ PAYLOAD DEĞERİYLE DEĞİŞTİRİN]",
+  "signature": "[LÜTFEN FARCASTER'DAN ALDIĞINIZ SIGNATURE DEĞERİYLE DEĞİŞTİRİN]",
+  
+  "name": "Reflex Test Mini App",
+  "title": "Reflex Test Mini App",
+  "subtitle": "Test Your Speed on Farcaster",
+  "description": "Measure your reaction time to the millisecond directly within your Farcaster feed. Compete with friends and share your score!",
+  "iconURL": "https://[UYGULAMA-ADINIZ].vercel.app/icon.png", 
+  "splashImageURL": "https://[UYGULAMA-ADINIZ].vercel.app/splash.png", 
+  "primaryCategory": "game",
+  "tags": [
+    "reflex",
+    "test",
+    "speed",
+    "game",
+    "reaction"
+  ]
+}
